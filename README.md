@@ -8,6 +8,7 @@
 * [x] Bahasa menggunakan golang karena dia memiliki proses yang lebih cepat, dan pada case tertentu bisa diimplementasikan concurrency yang bisa mempercepat proses yang tidak memiliki dependensi.
 * [x] IDE menggunakan VSCode karena dia menyediakan plugins yang cukup lengkap, terutama go, otomatis import package dan sangat dimudahkan dengan adanya terminal built-in.
 * [x] Database menggunakan postgres karena relational database dan katanya lebih baik dalam beberapa case daripada mysql
+* [x] Framework menggunakan Gin karena cukup lengkap dan mempercepat proses develop
 
 ### 2. Keamanan Pengiriman data
 * #### Mobile Apps
