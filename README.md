@@ -17,3 +17,4 @@
 
 ### 3. Code
 * Menggunakan Gin Framework, Postgres dan Go language
+* _Unit Testing Belum Terimplementasi_
